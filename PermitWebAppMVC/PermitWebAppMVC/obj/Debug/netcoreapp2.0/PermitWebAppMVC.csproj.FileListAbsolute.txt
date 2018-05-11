@@ -1,0 +1,11 @@
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\bin\Debug\netcoreapp2.0\PermitWebAppMVC.deps.json
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\bin\Debug\netcoreapp2.0\PermitWebAppMVC.runtimeconfig.json
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\bin\Debug\netcoreapp2.0\PermitWebAppMVC.runtimeconfig.dev.json
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\bin\Debug\netcoreapp2.0\PermitWebAppMVC.dll
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\bin\Debug\netcoreapp2.0\PermitWebAppMVC.pdb
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\obj\Debug\netcoreapp2.0\PermitWebAppMVC.csprojResolveAssemblyReference.cache
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\obj\Debug\netcoreapp2.0\PermitWebAppMVC.csproj.CoreCompileInputs.cache
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\obj\Debug\netcoreapp2.0\PermitWebAppMVC.AssemblyInfoInputs.cache
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\obj\Debug\netcoreapp2.0\PermitWebAppMVC.AssemblyInfo.cs
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\obj\Debug\netcoreapp2.0\PermitWebAppMVC.dll
+C:\YZhaoVS2017Project\PermitWebAppMVC\PermitWebAppMVC\obj\Debug\netcoreapp2.0\PermitWebAppMVC.pdb
